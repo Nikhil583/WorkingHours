@@ -1,0 +1,38 @@
+[
+  {
+    "eventhub": "event4",
+    "description": "dai",
+    "capability": "zxzc",
+    "feature_team": "asd",
+    "source": "asdf",
+    "partition": 4,
+    "retention": 1
+  },
+  {
+    "eventhub": "eventhub4",
+    "description": "dai",
+    "capability": "zxzc",
+    "feature_team": "asd",
+    "source": "asdf",
+    "partition": 4,
+    "retention": 1
+  },
+  {
+    "eventhub": "eventhu54",
+    "description": "dai",
+    "capability": "zxzc",
+    "feature_team": "asd",
+    "source": "asdf",
+    "partition": 4,
+    "retention": 1
+  },
+  {
+    "eventhub": "eventhu55",
+    "description": "dai",
+    "capability": "zxzc",
+    "feature_team": "asd",
+    "source": "asdf",
+    "partition": 4,
+    "retention": 1
+  }
+]
